@@ -1,5 +1,5 @@
 
 <%
-progressDb="progress.mdb"
-memberDb="member.mdb"
+progressDb="progress.mdb";
+memberDb="member.mdb";
 %>
